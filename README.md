@@ -1,4 +1,4 @@
-# THIS REPOSITORY IS NOT LONGER MANTAINED - PLEASE USED THE FOLLOWING ISSUE TRACKER - [https://poshtools.com/issues](https://poshtools.com/issues)
+# THIS REPOSITORY IS NOT LONGER MAINTAINED - PLEASE USED THE FOLLOWING ISSUE TRACKER - [https://poshtools.com/issues](https://poshtools.com/issues)
 
 ![PoshToolsLogo](https://poshtools.com/wp-content/uploads/2017/04/PoshToolsLogo-2.png)
 
